@@ -1,0 +1,14 @@
+{
+    "requires": {
+        "auth":{
+            "kind": "basic",
+            "users": { 
+                "arockiaraj.j@kaaviansys.com":{
+                    "password": "12345",
+                    "roles": ["admin"]
+                }
+
+            }
+        }
+    }
+}
